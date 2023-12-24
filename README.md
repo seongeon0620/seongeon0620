@@ -35,6 +35,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 <br>
 <br>  
+<br>  
 
 <div style="display:flex; width:90%; height:150px; justify-content:space-between;">
 <img style="width:48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongeon0620&layout=compact">
